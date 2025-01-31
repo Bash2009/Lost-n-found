@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/Lost-n-found/static/css/main.f9924254.css",
+    "main.js": "/Lost-n-found/static/js/main.b34a21a9.js",
+    "static/js/156.933b1cd9.chunk.js": "/Lost-n-found/static/js/156.933b1cd9.chunk.js",
+    "static/media/homepage1.jpg": "/Lost-n-found/static/media/homepage1.5481773e238c9da96e1d.jpg",
+    "static/media/butterfly.jpg": "/Lost-n-found/static/media/butterfly.5878bfa563f6232aec6e.jpg",
+    "static/media/nike-slides.jpg": "/Lost-n-found/static/media/nike-slides.9e8770a5a8f0418f7308.jpg",
+    "static/media/trucker-hat-1.jpg": "/Lost-n-found/static/media/trucker-hat-1.81c0477867cb5f0ccda0.jpg",
+    "static/media/girl-profile-2.jpg": "/Lost-n-found/static/media/girl-profile-2.cefc88885aee39b51a6a.jpg",
+    "static/media/birken-sandals.jpg": "/Lost-n-found/static/media/birken-sandals.2c1701d5c13e4840a5f3.jpg",
+    "static/media/flannel-shirt.jpg": "/Lost-n-found/static/media/flannel-shirt.c2f69b1de3feb577cd30.jpg",
+    "static/media/black-bracelet-2.jpg": "/Lost-n-found/static/media/black-bracelet-2.26be57d0abfa16967b26.jpg",
+    "static/media/calculator.jpg": "/Lost-n-found/static/media/calculator.c9dc819c05de08ea0a04.jpg",
+    "static/media/mj-2.jpg": "/Lost-n-found/static/media/mj-2.f19edd53a15e088b656c.jpg",
+    "static/media/black-bottle.jpg": "/Lost-n-found/static/media/black-bottle.be1901d31991aa4eaca0.jpg",
+    "static/media/trucker-hat-2.jpg": "/Lost-n-found/static/media/trucker-hat-2.031f22c7e154b2282c8e.jpg",
+    "static/media/basketball-profile.jpg": "/Lost-n-found/static/media/basketball-profile.283be6d2a0cda6e5bb03.jpg",
+    "static/media/black-bracelet-1.jpg": "/Lost-n-found/static/media/black-bracelet-1.125be42768a634f19b26.jpg",
+    "static/media/female-profile-1.jpg": "/Lost-n-found/static/media/female-profile-1.4c8832721dcaa1e269d2.jpg",
+    "static/media/black-bottle-2.jpg": "/Lost-n-found/static/media/black-bottle-2.2d629c77c69cd6de6399.jpg",
+    "static/media/female-profile-2.jpg": "/Lost-n-found/static/media/female-profile-2.baaca8dccf61cc6c61e2.jpg",
+    "static/media/flower-profile.jpg": "/Lost-n-found/static/media/flower-profile.d218c7f03ff3b78a32a9.jpg",
+    "static/media/some-necklace.jpg": "/Lost-n-found/static/media/some-necklace.78b94dd308052d4a91d0.jpg",
+    "static/media/male-profile-1.jpg": "/Lost-n-found/static/media/male-profile-1.255641bce42369027851.jpg",
+    "static/media/peace-profile.jpg": "/Lost-n-found/static/media/peace-profile.1fc0bf0b009f5b446234.jpg",
+    "static/media/keys.jpg": "/Lost-n-found/static/media/keys.ce1b79cdd0b3ebefb671.jpg",
+    "static/media/butterfly-profile-2.jpg": "/Lost-n-found/static/media/butterfly-profile-2.eb921b7d518bc1d7494e.jpg",
+    "static/media/mj-1.jpg": "/Lost-n-found/static/media/mj-1.25b56e5352bdc2af9755.jpg",
+    "index.html": "/Lost-n-found/index.html",
+    "main.f9924254.css.map": "/Lost-n-found/static/css/main.f9924254.css.map",
+    "main.b34a21a9.js.map": "/Lost-n-found/static/js/main.b34a21a9.js.map",
+    "156.933b1cd9.chunk.js.map": "/Lost-n-found/static/js/156.933b1cd9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f9924254.css",
+    "static/js/main.b34a21a9.js"
+  ]
+}
