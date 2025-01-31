@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Lost-n-found/static/css/main.f9924254.css",
-    "main.js": "/Lost-n-found/static/js/main.b34a21a9.js",
+    "main.js": "/Lost-n-found/static/js/main.d229eaf5.js",
     "static/js/156.933b1cd9.chunk.js": "/Lost-n-found/static/js/156.933b1cd9.chunk.js",
     "static/media/homepage1.jpg": "/Lost-n-found/static/media/homepage1.5481773e238c9da96e1d.jpg",
     "static/media/butterfly.jpg": "/Lost-n-found/static/media/butterfly.5878bfa563f6232aec6e.jpg",
@@ -29,11 +29,11 @@
     "static/media/mj-1.jpg": "/Lost-n-found/static/media/mj-1.25b56e5352bdc2af9755.jpg",
     "index.html": "/Lost-n-found/index.html",
     "main.f9924254.css.map": "/Lost-n-found/static/css/main.f9924254.css.map",
-    "main.b34a21a9.js.map": "/Lost-n-found/static/js/main.b34a21a9.js.map",
+    "main.d229eaf5.js.map": "/Lost-n-found/static/js/main.d229eaf5.js.map",
     "156.933b1cd9.chunk.js.map": "/Lost-n-found/static/js/156.933b1cd9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f9924254.css",
-    "static/js/main.b34a21a9.js"
+    "static/js/main.d229eaf5.js"
   ]
 }
